@@ -1,0 +1,5926 @@
+{
+  "tracks": [
+    {
+      "id": "nepali-language",
+      "title": "Nepali Language",
+      "nepaliTitle": "नेपाली भाषा",
+      "description": "A systematic, cumulative course: sounds, अक्षर, matras, words and stories.",
+      "totalLessons": 192,
+      "completedLessons": 0,
+      "themeColor": "#332B5C",
+      "chapterIds": [
+        "l1",
+        "l2",
+        "l3",
+        "l4",
+        "l5",
+        "l6",
+        "l7",
+        "l8",
+        "l9",
+        "l10",
+        "l11",
+        "l12"
+      ]
+    },
+    {
+      "id": "nepali-culture",
+      "title": "Discover Nepal",
+      "nepaliTitle": "नेपाल चिनौँ",
+      "description": "A separate, non-hierarchical course about places, people, seasons and celebrations.",
+      "totalLessons": 176,
+      "completedLessons": 0,
+      "themeColor": "#C15B3C",
+      "chapterIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c10"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "l1",
+      "trackId": "nepali-language",
+      "code": "L1",
+      "title": "First sounds and social language",
+      "nepaliTitle": "सुनौँ र बोलौँ",
+      "summary": "High-utility spoken Nepali from day one: greetings, response words, and the first sound contrasts.",
+      "moduleIds": [
+        "l1-1",
+        "l1-2",
+        "l1-3"
+      ]
+    },
+    {
+      "id": "l2",
+      "trackId": "nepali-language",
+      "code": "L2",
+      "title": "Independent vowels",
+      "nepaliTitle": "स्वर",
+      "summary": "The independent vowel letters, their sounds, and their stroke paths.",
+      "moduleIds": [
+        "l2-1",
+        "l2-2",
+        "l2-3"
+      ]
+    },
+    {
+      "id": "l3",
+      "trackId": "nepali-language",
+      "code": "L3",
+      "title": "Consonant families and articulation",
+      "nepaliTitle": "व्यञ्जन I",
+      "summary": "Consonants taught in articulatory families, always inside useful words.",
+      "moduleIds": [
+        "l3-1",
+        "l3-2",
+        "l3-3",
+        "l3-4"
+      ]
+    },
+    {
+      "id": "l4",
+      "trackId": "nepali-language",
+      "code": "L4",
+      "title": "Consonants II and first decodable words",
+      "nepaliTitle": "व्यञ्जन II",
+      "summary": "Glides, liquids, sibilants and the अक्षर workshop that starts real reading.",
+      "moduleIds": [
+        "l4-1",
+        "l4-2",
+        "l4-3",
+        "l4-4"
+      ]
+    },
+    {
+      "id": "l5",
+      "trackId": "nepali-language",
+      "code": "L5",
+      "title": "Vowel signs",
+      "nepaliTitle": "मात्रा",
+      "summary": "Matra placement, including the visually preposed ि that is pronounced after its consonant.",
+      "moduleIds": [
+        "l5-1",
+        "l5-2",
+        "l5-3",
+        "l5-4"
+      ]
+    },
+    {
+      "id": "l6",
+      "trackId": "nepali-language",
+      "code": "L6",
+      "title": "People, things, and simple sentences",
+      "nepaliTitle": null,
+      "summary": "Pronouns, the copula, plurals, adjectives and the SOV sentence frame.",
+      "moduleIds": [
+        "l6-1",
+        "l6-2",
+        "l6-3",
+        "l6-4"
+      ]
+    },
+    {
+      "id": "l7",
+      "trackId": "nepali-language",
+      "code": "L7",
+      "title": "Family, school, home, and location",
+      "nepaliTitle": null,
+      "summary": "Kinship words, classroom language, postpositions and possession.",
+      "moduleIds": [
+        "l7-1",
+        "l7-2",
+        "l7-3",
+        "l7-4"
+      ]
+    },
+    {
+      "id": "l8",
+      "trackId": "nepali-language",
+      "code": "L8",
+      "title": "Respect, questions, actions, and agreement",
+      "nepaliTitle": null,
+      "summary": "तँ / तिमी / तपाईं as context, never as personal worth; question words, verbs and kind commands.",
+      "moduleIds": [
+        "l8-1",
+        "l8-2",
+        "l8-3",
+        "l8-4"
+      ]
+    },
+    {
+      "id": "l9",
+      "trackId": "nepali-language",
+      "code": "L9",
+      "title": "Conjuncts and fluent decoding",
+      "nepaliTitle": "संयुक्त अक्षर",
+      "summary": "Halant, common conjuncts, nasal patterns and reading for meaning.",
+      "moduleIds": [
+        "l9-1",
+        "l9-2",
+        "l9-3",
+        "l9-4"
+      ]
+    },
+    {
+      "id": "l10",
+      "trackId": "nepali-language",
+      "code": "L10",
+      "title": "Numbers, money, time, and dates",
+      "nepaliTitle": null,
+      "summary": "Nepali number names 11–99 are irregular; they are taught in frequency chunks, never as a tidy rule.",
+      "moduleIds": [
+        "l10-1",
+        "l10-2",
+        "l10-3",
+        "l10-4",
+        "l10-5",
+        "l10-6"
+      ]
+    },
+    {
+      "id": "l11",
+      "trackId": "nepali-language",
+      "code": "L11",
+      "title": "Food, body, feelings, nature, and routines",
+      "nepaliTitle": null,
+      "summary": "Everyday life language, including safe self-advocacy phrases.",
+      "moduleIds": [
+        "l11-1",
+        "l11-2",
+        "l11-3",
+        "l11-4"
+      ]
+    },
+    {
+      "id": "l12",
+      "trackId": "nepali-language",
+      "code": "L12",
+      "title": "Time frames, conversation, and stories",
+      "nepaliTitle": null,
+      "summary": "Present, past and future patterns culminating in the final language quest.",
+      "moduleIds": [
+        "l12-1",
+        "l12-2",
+        "l12-3",
+        "l12-4"
+      ]
+    },
+    {
+      "id": "c1",
+      "trackId": "nepali-culture",
+      "code": "C1",
+      "title": "Ways of greeting, respect, and belonging",
+      "nepaliTitle": null,
+      "summary": "How people greet, host and describe themselves — with variation treated as normal.",
+      "moduleIds": [
+        "c1-1",
+        "c1-2",
+        "c1-3"
+      ]
+    },
+    {
+      "id": "c2",
+      "trackId": "nepali-culture",
+      "code": "C2",
+      "title": "Seasons and calendars",
+      "nepaliTitle": null,
+      "summary": "Six ऋतु, the Bikram Sambat year, and how two calendars live side by side.",
+      "moduleIds": [
+        "c2-1",
+        "c2-2",
+        "c2-3",
+        "c2-4"
+      ]
+    },
+    {
+      "id": "c3",
+      "trackId": "nepali-culture",
+      "code": "C3",
+      "title": "Land, regions, provinces, and landmarks",
+      "nepaliTitle": null,
+      "summary": "Himal, Pahad and Terai; seven provinces; natural and lived places.",
+      "moduleIds": [
+        "c3-1",
+        "c3-2",
+        "c3-3",
+        "c3-4"
+      ]
+    },
+    {
+      "id": "c4",
+      "trackId": "nepali-culture",
+      "code": "C4",
+      "title": "Languages of Nepal",
+      "nepaliTitle": null,
+      "summary": "Language, script and multilingual lives — with listening, not accent guessing.",
+      "moduleIds": [
+        "c4-1",
+        "c4-2",
+        "c4-3",
+        "c4-4"
+      ]
+    },
+    {
+      "id": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5",
+      "title": "Peoples and communities",
+      "nepaliTitle": null,
+      "summary": "Introductions, never definitions. Community names do not map to one language, religion, job, face or costume.",
+      "moduleIds": [
+        "c5-1",
+        "c5-2",
+        "c5-3",
+        "c5-4",
+        "c5-5",
+        "c5-6",
+        "c5-7"
+      ]
+    },
+    {
+      "id": "c6",
+      "trackId": "nepali-culture",
+      "code": "C6",
+      "title": "Festivals and observances I",
+      "nepaliTitle": null,
+      "summary": "Dashain, Tihar, Holi and Teej — sequences and variation, with dates always tied to a year and source.",
+      "moduleIds": [
+        "c6-1",
+        "c6-2",
+        "c6-3",
+        "c6-4",
+        "c6-5"
+      ]
+    },
+    {
+      "id": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7",
+      "title": "Festivals and observances II",
+      "nepaliTitle": null,
+      "summary": "Buddha Jayanti, the plural Lhosars, Chhath, Maghe Sankranti, Janai Purnima and Indra Jatra.",
+      "moduleIds": [
+        "c7-1",
+        "c7-2",
+        "c7-3",
+        "c7-4",
+        "c7-5",
+        "c7-6"
+      ]
+    },
+    {
+      "id": "c8",
+      "trackId": "nepali-culture",
+      "code": "C8",
+      "title": "Food and daily life",
+      "nepaliTitle": null,
+      "summary": "Meals, food stories, homes and caring for shared places.",
+      "moduleIds": [
+        "c8-1",
+        "c8-2",
+        "c8-3",
+        "c8-4"
+      ]
+    },
+    {
+      "id": "c9",
+      "trackId": "nepali-culture",
+      "code": "C9",
+      "title": "Dress, music, dance, instruments, crafts, and art",
+      "nepaliTitle": null,
+      "summary": "Observation of function, pattern and process — never costume or accent guessing.",
+      "moduleIds": [
+        "c9-1",
+        "c9-2",
+        "c9-3",
+        "c9-4"
+      ]
+    },
+    {
+      "id": "c10",
+      "trackId": "nepali-culture",
+      "code": "C10",
+      "title": "Animals, national symbols, and the final project",
+      "nepaliTitle": null,
+      "summary": "Habitats, official symbols, and a child-built learning museum.",
+      "moduleIds": [
+        "c10-1",
+        "c10-2",
+        "c10-3"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "l1-1",
+      "chapterId": "l1",
+      "trackId": "nepali-language",
+      "code": "L1.1",
+      "title": "Namaste world",
+      "goal": "Greet, give your name, and take two turns in a friendly exchange.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "नमस्ते",
+          "rom": "namaste",
+          "en": "hello / respectful greeting"
+        },
+        {
+          "np": "नमस्कार",
+          "rom": "namaskār",
+          "en": "formal greeting"
+        },
+        {
+          "np": "मेरो नाम ___ हो।",
+          "rom": "mero nām ___ ho",
+          "en": "my name is ___"
+        },
+        {
+          "np": "तपाईंको नाम के हो?",
+          "rom": "tapāī̃ko nām ke ho?",
+          "en": "what is your name?"
+        },
+        {
+          "np": "फेरि भेटौँला",
+          "rom": "pheri bheṭaũlā",
+          "en": "see you again"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l1-1-l1",
+          "title": "Hear greetings in mini-scenes",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l1-1-l2",
+          "title": "Choose the greeting by context",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l1-1-l3",
+          "title": "Say your name",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l1-1-l4",
+          "title": "Two-turn exchange",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l1-2",
+      "chapterId": "l1",
+      "trackId": "nepali-language",
+      "code": "L1.2",
+      "title": "Yes, no, please",
+      "goal": "Respond, request, thank, and repair a conversation politely.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "हो",
+          "rom": "ho",
+          "en": "yes / is"
+        },
+        {
+          "np": "होइन",
+          "rom": "hoina",
+          "en": "no / is not"
+        },
+        {
+          "np": "हुन्छ",
+          "rom": "huncha",
+          "en": "okay"
+        },
+        {
+          "np": "कृपया",
+          "rom": "kṛpayā",
+          "en": "please"
+        },
+        {
+          "np": "धन्यवाद",
+          "rom": "dhanyavād",
+          "en": "thank you"
+        },
+        {
+          "np": "फेरि भन्नुहोस्",
+          "rom": "pheri bhannuhos",
+          "en": "please say again"
+        },
+        {
+          "np": "बिस्तारै",
+          "rom": "bistārai",
+          "en": "slowly"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l1-2-l1",
+          "title": "Response words",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l1-2-l2",
+          "title": "Classroom requests",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l1-2-l3",
+          "title": "Gratitude",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l1-2-l4",
+          "title": "Repair: again / slowly",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l1-3",
+      "chapterId": "l1",
+      "trackId": "nepali-language",
+      "code": "L1.3",
+      "title": "Sound detectives I",
+      "goal": "Hear the difference between aspirated and unaspirated sounds.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "क / ख",
+          "rom": "ka / kha",
+          "en": "velar pair"
+        },
+        {
+          "np": "ग / घ",
+          "rom": "ga / gha",
+          "en": "voiced velar pair"
+        },
+        {
+          "np": "प / फ",
+          "rom": "pa / pha",
+          "en": "labial pair"
+        },
+        {
+          "np": "फल",
+          "rom": "phal",
+          "en": "fruit"
+        },
+        {
+          "np": "बल",
+          "rom": "bal",
+          "en": "strength"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l1-3-l1",
+          "title": "Feel the airflow",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l1-3-l2",
+          "title": "Hear unaspirated vs aspirated",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l1-3-l3",
+          "title": "Minimal-word sorting",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l1-3-l4",
+          "title": "Production without pass/fail",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l2-1",
+      "chapterId": "l2",
+      "trackId": "nepali-language",
+      "code": "L2.1",
+      "title": "First vowel shapes",
+      "goal": "Map अ आ इ ई to sound, picture and stroke path.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "अ",
+          "rom": "a",
+          "en": "vowel a"
+        },
+        {
+          "np": "आ",
+          "rom": "ā",
+          "en": "long vowel ā"
+        },
+        {
+          "np": "इ",
+          "rom": "i",
+          "en": "vowel i"
+        },
+        {
+          "np": "ई",
+          "rom": "ī",
+          "en": "long vowel ī"
+        },
+        {
+          "np": "आम",
+          "rom": "ām",
+          "en": "mango"
+        },
+        {
+          "np": "इँटा",
+          "rom": "ĩṭā",
+          "en": "brick"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l2-1-l1",
+          "title": "अ / आ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l2-1-l2",
+          "title": "इ / ई",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l2-1-l3",
+          "title": "Picture anchors",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l2-1-l4",
+          "title": "Trace and read the mixed set",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l2-2",
+      "chapterId": "l2",
+      "trackId": "nepali-language",
+      "code": "L2.2",
+      "title": "Rounded vowels",
+      "goal": "Recognize and form उ ऊ ए ऐ ओ औ.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "उ",
+          "rom": "u",
+          "en": "vowel u"
+        },
+        {
+          "np": "ऊ",
+          "rom": "ū",
+          "en": "long vowel ū"
+        },
+        {
+          "np": "ए",
+          "rom": "e",
+          "en": "vowel e"
+        },
+        {
+          "np": "ऐ",
+          "rom": "ai",
+          "en": "vowel ai"
+        },
+        {
+          "np": "ओ",
+          "rom": "o",
+          "en": "vowel o"
+        },
+        {
+          "np": "औ",
+          "rom": "au",
+          "en": "vowel au"
+        },
+        {
+          "np": "ऊन",
+          "rom": "ūn",
+          "en": "wool"
+        },
+        {
+          "np": "एउटा",
+          "rom": "euṭā",
+          "en": "one / a"
+        },
+        {
+          "np": "औँला",
+          "rom": "aũlā",
+          "en": "finger"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l2-2-l1",
+          "title": "उ / ऊ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l2-2-l2",
+          "title": "ए / ऐ",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l2-2-l3",
+          "title": "ओ / औ",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l2-2-l4",
+          "title": "Mixed retrieval",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l2-3",
+      "chapterId": "l2",
+      "trackId": "nepali-language",
+      "code": "L2.3",
+      "title": "Special vowel and marks",
+      "goal": "Tell vowels apart from nasal and visarga marks.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "ऋ",
+          "rom": "ṛ",
+          "en": "vowel ṛ"
+        },
+        {
+          "np": "ऋतु",
+          "rom": "ṛtu",
+          "en": "season"
+        },
+        {
+          "np": "अं / ं",
+          "rom": "aṃ",
+          "en": "nasal marker"
+        },
+        {
+          "np": "अँ / ँ",
+          "rom": "ã",
+          "en": "nasalization"
+        },
+        {
+          "np": "आँखा",
+          "rom": "ā̃khā",
+          "en": "eye"
+        },
+        {
+          "np": "रंग",
+          "rom": "raṅga",
+          "en": "color"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l2-3-l1",
+          "title": "ऋ in real words",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l2-3-l2",
+          "title": "Anusvāra and chandrabindu",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l2-3-l3",
+          "title": "Visarga",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l2-3-l4",
+          "title": "All-vowel song and sort",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l3-1",
+      "chapterId": "l3",
+      "trackId": "nepali-language",
+      "code": "L3.1",
+      "title": "Velars and palatals",
+      "goal": "Read and form क–ङ and च–ञ inside picture words.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "क",
+          "rom": "ka",
+          "en": "letter ka"
+        },
+        {
+          "np": "ख",
+          "rom": "kha",
+          "en": "letter kha"
+        },
+        {
+          "np": "ग",
+          "rom": "ga",
+          "en": "letter ga"
+        },
+        {
+          "np": "घर",
+          "rom": "ghar",
+          "en": "house"
+        },
+        {
+          "np": "गाई",
+          "rom": "gāī",
+          "en": "cow"
+        },
+        {
+          "np": "जल",
+          "rom": "jal",
+          "en": "water"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l3-1-l1",
+          "title": "क ख ग घ ङ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l3-1-l2",
+          "title": "च छ ज झ ञ",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l3-1-l3",
+          "title": "Aspiration pairs",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l3-1-l4",
+          "title": "Read image words",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l3-2",
+      "chapterId": "l3",
+      "trackId": "nepali-language",
+      "code": "L3.2",
+      "title": "Retroflex detectives",
+      "goal": "Hear and write the retroflex series ट ठ ड ढ ण.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "ट",
+          "rom": "ṭa",
+          "en": "letter ṭa"
+        },
+        {
+          "np": "ठ",
+          "rom": "ṭha",
+          "en": "letter ṭha"
+        },
+        {
+          "np": "ड",
+          "rom": "ḍa",
+          "en": "letter ḍa"
+        },
+        {
+          "np": "ठूलो",
+          "rom": "ṭhūlo",
+          "en": "big"
+        },
+        {
+          "np": "डोरी",
+          "rom": "ḍorī",
+          "en": "rope"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l3-2-l1",
+          "title": "ट ठ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l3-2-l2",
+          "title": "ड ढ ण",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l3-2-l3",
+          "title": "Tongue-position animation",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l3-2-l4",
+          "title": "Contrast with dentals",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l3-3",
+      "chapterId": "l3",
+      "trackId": "nepali-language",
+      "code": "L3.3",
+      "title": "Dentals",
+      "goal": "Distinguish dental त थ द ध न from the retroflex series.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "त",
+          "rom": "ta",
+          "en": "letter ta"
+        },
+        {
+          "np": "थ",
+          "rom": "tha",
+          "en": "letter tha"
+        },
+        {
+          "np": "दाँत",
+          "rom": "dā̃t",
+          "en": "tooth"
+        },
+        {
+          "np": "नदी",
+          "rom": "nadī",
+          "en": "river"
+        },
+        {
+          "np": "धनुष",
+          "rom": "dhanuṣ",
+          "en": "bow"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l3-3-l1",
+          "title": "त थ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l3-3-l2",
+          "title": "द ध न",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l3-3-l3",
+          "title": "Dental vs retroflex",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l3-3-l4",
+          "title": "Useful words",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l3-4",
+      "chapterId": "l3",
+      "trackId": "nepali-language",
+      "code": "L3.4",
+      "title": "Labials",
+      "goal": "Build words with प फ ब भ म.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "प",
+          "rom": "pa",
+          "en": "letter pa"
+        },
+        {
+          "np": "फ",
+          "rom": "pha",
+          "en": "letter pha"
+        },
+        {
+          "np": "पानी",
+          "rom": "pānī",
+          "en": "water"
+        },
+        {
+          "np": "फल",
+          "rom": "phal",
+          "en": "fruit"
+        },
+        {
+          "np": "म",
+          "rom": "ma",
+          "en": "I"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l3-4-l1",
+          "title": "प फ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l3-4-l2",
+          "title": "ब भ म",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l3-4-l3",
+          "title": "Voicing and aspiration",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l3-4-l4",
+          "title": "Word construction",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l4-1",
+      "chapterId": "l4",
+      "trackId": "nepali-language",
+      "code": "L4.1",
+      "title": "Glides and liquids",
+      "goal": "Read य र ल व in word positions and short phrases.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "य",
+          "rom": "ya",
+          "en": "letter ya"
+        },
+        {
+          "np": "र",
+          "rom": "ra",
+          "en": "letter ra"
+        },
+        {
+          "np": "रातो",
+          "rom": "rāto",
+          "en": "red"
+        },
+        {
+          "np": "वन",
+          "rom": "van",
+          "en": "forest"
+        },
+        {
+          "np": "राम्रो",
+          "rom": "rāmro",
+          "en": "good / nice"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l4-1-l1",
+          "title": "य र",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l4-1-l2",
+          "title": "ल व",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l4-1-l3",
+          "title": "Word positions",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l4-1-l4",
+          "title": "Phrase reading",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l4-2",
+      "chapterId": "l4",
+      "trackId": "nepali-language",
+      "code": "L4.2",
+      "title": "Sibilants and h",
+      "goal": "Recognize श ष स ह and spell common words.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "श",
+          "rom": "śa",
+          "en": "letter śa"
+        },
+        {
+          "np": "स",
+          "rom": "sa",
+          "en": "letter sa"
+        },
+        {
+          "np": "साथी",
+          "rom": "sāthī",
+          "en": "friend"
+        },
+        {
+          "np": "हात",
+          "rom": "hāt",
+          "en": "hand"
+        },
+        {
+          "np": "शिक्षक",
+          "rom": "śikṣak",
+          "en": "teacher"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l4-2-l1",
+          "title": "श ष स",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l4-2-l2",
+          "title": "ह",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l4-2-l3",
+          "title": "Hear and see distinctions",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l4-2-l4",
+          "title": "Common words",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l4-3",
+      "chapterId": "l4",
+      "trackId": "nepali-language",
+      "code": "L4.3",
+      "title": "Remaining letters and borrowed forms",
+      "goal": "Meet क्ष त्र ज्ञ and variant letters as whole units.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "क्ष",
+          "rom": "kṣa",
+          "en": "conjunct kṣa"
+        },
+        {
+          "np": "त्र",
+          "rom": "tra",
+          "en": "conjunct tra"
+        },
+        {
+          "np": "कक्षा",
+          "rom": "kakṣā",
+          "en": "class"
+        },
+        {
+          "np": "मित्र",
+          "rom": "mitra",
+          "en": "friend"
+        },
+        {
+          "np": "ज्ञान",
+          "rom": "jñān / gyān",
+          "en": "knowledge"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l4-3-l1",
+          "title": "क्ष त्र ज्ञ",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l4-3-l2",
+          "title": "ड़ / ढ़ recognition",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l4-3-l3",
+          "title": "Alphabet map",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l4-3-l4",
+          "title": "Mixed decodable hunt",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l4-4",
+      "chapterId": "l4",
+      "trackId": "nepali-language",
+      "code": "L4.4",
+      "title": "अक्षर workshop",
+      "goal": "Segment and build controlled words from अक्षर.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "कम",
+          "rom": "kam",
+          "en": "less"
+        },
+        {
+          "np": "घर",
+          "rom": "ghar",
+          "en": "house"
+        },
+        {
+          "np": "कलम",
+          "rom": "kalam",
+          "en": "pen"
+        },
+        {
+          "np": "नमक",
+          "rom": "namak",
+          "en": "salt"
+        },
+        {
+          "np": "सरल",
+          "rom": "saral",
+          "en": "simple"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l4-4-l1",
+          "title": "Inherent /a/",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l4-4-l2",
+          "title": "Blend consonant + vowel",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l4-4-l3",
+          "title": "Break words into अक्षर",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l4-4-l4",
+          "title": "Build picture words",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l5-1",
+      "chapterId": "l5",
+      "trackId": "nepali-language",
+      "code": "L5.1",
+      "title": "आ, इ, ई signs",
+      "goal": "Attach ा ि ी correctly and read real words.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "का",
+          "rom": "kā",
+          "en": "ka + ā"
+        },
+        {
+          "np": "कि",
+          "rom": "ki",
+          "en": "ka + i (written left, said after)"
+        },
+        {
+          "np": "नाम",
+          "rom": "nām",
+          "en": "name"
+        },
+        {
+          "np": "किताब",
+          "rom": "kitāb",
+          "en": "book"
+        },
+        {
+          "np": "तीन",
+          "rom": "tīn",
+          "en": "three"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l5-1-l1",
+          "title": "Inherent अ vs ा",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l5-1-l2",
+          "title": "The preposed ि",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l5-1-l3",
+          "title": "ी",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l5-1-l4",
+          "title": "Word reading and writing",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l5-2",
+      "chapterId": "l5",
+      "trackId": "nepali-language",
+      "code": "L5.2",
+      "title": "उ, ऊ, ऋ signs",
+      "goal": "Place ु ू ृ below the consonant and read.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "कु",
+          "rom": "ku",
+          "en": "ka + u"
+        },
+        {
+          "np": "कुकुर",
+          "rom": "kukur",
+          "en": "dog"
+        },
+        {
+          "np": "फूल",
+          "rom": "phūl",
+          "en": "flower"
+        },
+        {
+          "np": "कृपया",
+          "rom": "kṛpayā",
+          "en": "please"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l5-2-l1",
+          "title": "ु below",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l5-2-l2",
+          "title": "ू below",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l5-2-l3",
+          "title": "ृ recognition",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l5-2-l4",
+          "title": "Mixed words",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l5-3",
+      "chapterId": "l5",
+      "trackId": "nepali-language",
+      "code": "L5.3",
+      "title": "ए, ऐ, ओ, औ signs",
+      "goal": "Decode े ै ो ौ inside phrases and a mini story.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "के",
+          "rom": "ke",
+          "en": "what"
+        },
+        {
+          "np": "मेरो",
+          "rom": "mero",
+          "en": "my"
+        },
+        {
+          "np": "खेल",
+          "rom": "khel",
+          "en": "game"
+        },
+        {
+          "np": "को",
+          "rom": "ko",
+          "en": "of"
+        },
+        {
+          "np": "दौड",
+          "rom": "dauḍ",
+          "en": "run"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l5-3-l1",
+          "title": "े / ै",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l5-3-l2",
+          "title": "ो / ौ",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l5-3-l3",
+          "title": "Visual contrast",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l5-3-l4",
+          "title": "Mini story",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l5-4",
+      "chapterId": "l5",
+      "trackId": "nepali-language",
+      "code": "L5.4",
+      "title": "Matra mastery",
+      "goal": "Read a controlled short text with automaticity, never speed pressure.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "क का कि की कु कू",
+          "rom": "ka kā ki kī ku kū",
+          "en": "matra wheel"
+        },
+        {
+          "np": "पानी",
+          "rom": "pānī",
+          "en": "water"
+        },
+        {
+          "np": "साथी",
+          "rom": "sāthī",
+          "en": "friend"
+        },
+        {
+          "np": "खेलौना",
+          "rom": "khelaunā",
+          "en": "toy"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l5-4-l1",
+          "title": "Matra wheel",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l5-4-l2",
+          "title": "One consonant, all vowels",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l5-4-l3",
+          "title": "Mixed dictation",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l5-4-l4",
+          "title": "Read a short text",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l6-1",
+      "chapterId": "l6",
+      "trackId": "nepali-language",
+      "code": "L6.1",
+      "title": "Pronouns and “to be”",
+      "goal": "Say what something is — and is not.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "म",
+          "rom": "ma",
+          "en": "I"
+        },
+        {
+          "np": "हामी",
+          "rom": "hāmī",
+          "en": "we"
+        },
+        {
+          "np": "उहाँ",
+          "rom": "uhā̃",
+          "en": "he / she (respectful)"
+        },
+        {
+          "np": "यो किताब हो।",
+          "rom": "yo kitāb ho",
+          "en": "this is a book"
+        },
+        {
+          "np": "यो किताब होइन।",
+          "rom": "yo kitāb hoina",
+          "en": "this is not a book"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l6-1-l1",
+          "title": "Identify people",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l6-1-l2",
+          "title": "X हो",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l6-1-l3",
+          "title": "Negative",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l6-1-l4",
+          "title": "Introductions",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l6-2",
+      "chapterId": "l6",
+      "trackId": "nepali-language",
+      "code": "L6.2",
+      "title": "Nouns, plurals, classifiers",
+      "goal": "Use -हरू and counters the way Nepali actually does.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "बच्चा / बच्चाहरू",
+          "rom": "baccā / baccāharū",
+          "en": "child / children"
+        },
+        {
+          "np": "किताबहरू",
+          "rom": "kitābharū",
+          "en": "books"
+        },
+        {
+          "np": "एउटा",
+          "rom": "euṭā",
+          "en": "one (general)"
+        },
+        {
+          "np": "जना",
+          "rom": "janā",
+          "en": "person counter"
+        },
+        {
+          "np": "दुई जना साथी",
+          "rom": "dui janā sāthī",
+          "en": "two friends"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l6-2-l1",
+          "title": "Singular / plural meaning",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l6-2-l2",
+          "title": "Optional -हरू",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l6-2-l3",
+          "title": "Counters",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l6-2-l4",
+          "title": "Describe a scene",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l6-3",
+      "chapterId": "l6",
+      "trackId": "nepali-language",
+      "code": "L6.3",
+      "title": "Adjectives",
+      "goal": "Describe color, size and quality.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "रातो",
+          "rom": "rāto",
+          "en": "red"
+        },
+        {
+          "np": "नीलो",
+          "rom": "nīlo",
+          "en": "blue"
+        },
+        {
+          "np": "ठूलो",
+          "rom": "ṭhūlo",
+          "en": "big"
+        },
+        {
+          "np": "सानो",
+          "rom": "sāno",
+          "en": "small"
+        },
+        {
+          "np": "मीठो",
+          "rom": "mīṭho",
+          "en": "tasty / sweet"
+        },
+        {
+          "np": "रातो फूल",
+          "rom": "rāto phūl",
+          "en": "red flower"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l6-3-l1",
+          "title": "Colors",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l6-3-l2",
+          "title": "Size and quality",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l6-3-l3",
+          "title": "Noun phrase",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l6-3-l4",
+          "title": "Sentence",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l6-4",
+      "chapterId": "l6",
+      "trackId": "nepali-language",
+      "code": "L6.4",
+      "title": "SOV sentence builder",
+      "goal": "Build subject–object–verb sentences and questions.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "म पानी पिउँछु।",
+          "rom": "ma pānī piũchu",
+          "en": "I drink water"
+        },
+        {
+          "np": "ऊ किताब पढ्छ।",
+          "rom": "ū kitāb paḍhcha",
+          "en": "he/she reads a book"
+        },
+        {
+          "np": "तिमी के खान्छौ?",
+          "rom": "timī ke khānchau?",
+          "en": "what do you eat?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l6-4-l1",
+          "title": "Actor / object / action",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l6-4-l2",
+          "title": "Contrast with English order",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l6-4-l3",
+          "title": "Questions",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l6-4-l4",
+          "title": "Story scene",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l7-1",
+      "chapterId": "l7",
+      "trackId": "nepali-language",
+      "code": "L7.1",
+      "title": "Families, many ways",
+      "goal": "Name family members and introduce someone.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "आमा",
+          "rom": "āmā",
+          "en": "mother"
+        },
+        {
+          "np": "बुबा",
+          "rom": "bubā",
+          "en": "father"
+        },
+        {
+          "np": "दिदी",
+          "rom": "didī",
+          "en": "older sister"
+        },
+        {
+          "np": "भाइ",
+          "rom": "bhāi",
+          "en": "younger brother"
+        },
+        {
+          "np": "हजुरआमा",
+          "rom": "hajurāmā",
+          "en": "grandmother"
+        },
+        {
+          "np": "मेरो परिवार",
+          "rom": "mero parivār",
+          "en": "my family"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l7-1-l1",
+          "title": "Core kin words",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l7-1-l2",
+          "title": "My / your",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l7-1-l3",
+          "title": "Varied family scenes",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l7-1-l4",
+          "title": "Introduce someone",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l7-2",
+      "chapterId": "l7",
+      "trackId": "nepali-language",
+      "code": "L7.2",
+      "title": "School and classroom",
+      "goal": "Follow classroom instructions and ask for an item.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "विद्यालय",
+          "rom": "vidyālaya",
+          "en": "school"
+        },
+        {
+          "np": "कक्षा",
+          "rom": "kakṣā",
+          "en": "class"
+        },
+        {
+          "np": "शिक्षिका",
+          "rom": "śikṣikā",
+          "en": "teacher (f.)"
+        },
+        {
+          "np": "कलम",
+          "rom": "kalam",
+          "en": "pen"
+        },
+        {
+          "np": "पढ्नुहोस्",
+          "rom": "paḍhnuhos",
+          "en": "please read"
+        },
+        {
+          "np": "लेख्नुहोस्",
+          "rom": "lekhnuhos",
+          "en": "please write"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l7-2-l1",
+          "title": "Objects",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l7-2-l2",
+          "title": "People",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l7-2-l3",
+          "title": "Instructions",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l7-2-l4",
+          "title": "Ask for an item",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l7-3",
+      "chapterId": "l7",
+      "trackId": "nepali-language",
+      "code": "L7.3",
+      "title": "Where? Postpositions I",
+      "goal": "Say where things are.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "कहाँ?",
+          "rom": "kahā̃?",
+          "en": "where?"
+        },
+        {
+          "np": "माथि",
+          "rom": "māthi",
+          "en": "above / on"
+        },
+        {
+          "np": "मुनि",
+          "rom": "muni",
+          "en": "under"
+        },
+        {
+          "np": "भित्र",
+          "rom": "bhitra",
+          "en": "inside"
+        },
+        {
+          "np": "किताब झोलामा छ।",
+          "rom": "kitāb jholāmā cha",
+          "en": "the book is in the bag"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l7-3-l1",
+          "title": "मा",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l7-3-l2",
+          "title": "माथि / मुनि",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l7-3-l3",
+          "title": "भित्र / बाहिर",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l7-3-l4",
+          "title": "Hide and find",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l7-4",
+      "chapterId": "l7",
+      "trackId": "nepali-language",
+      "code": "L7.4",
+      "title": "Possession and relations",
+      "goal": "Use को / का / की, सँग and लाई in real exchanges.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "मेरो / तिम्रो",
+          "rom": "mero / timro",
+          "en": "my / your"
+        },
+        {
+          "np": "रामको किताब",
+          "rom": "Rāmko kitāb",
+          "en": "Ram's book"
+        },
+        {
+          "np": "मसँग कलम छ।",
+          "rom": "masãga kalam cha",
+          "en": "I have a pen"
+        },
+        {
+          "np": "मलाई पानी दिनुहोस्।",
+          "rom": "malāī pānī dinuhos",
+          "en": "please give me water"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l7-4-l1",
+          "title": "को / का / की",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l7-4-l2",
+          "title": "सँग",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l7-4-l3",
+          "title": "लाई",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l7-4-l4",
+          "title": "Exchange",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l8-1",
+      "chapterId": "l8",
+      "trackId": "nepali-language",
+      "code": "L8.1",
+      "title": "Respect ladder",
+      "goal": "Choose the address level that fits the relationship.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "तँ",
+          "rom": "tã",
+          "en": "very intimate 'you' (recognize only)"
+        },
+        {
+          "np": "तिमी",
+          "rom": "timī",
+          "en": "familiar 'you'"
+        },
+        {
+          "np": "तपाईं",
+          "rom": "tapāī̃",
+          "en": "respectful 'you'"
+        },
+        {
+          "np": "तिमी जान्छौ।",
+          "rom": "timī jānchau",
+          "en": "you go (familiar)"
+        },
+        {
+          "np": "तपाईं जानुहुन्छ।",
+          "rom": "tapāī̃ jānuhuncha",
+          "en": "you go (respectful)"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l8-1-l1",
+          "title": "Hear three levels",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l8-1-l2",
+          "title": "Choose by relationship",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l8-1-l3",
+          "title": "Verb pairs",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l8-1-l4",
+          "title": "Repair kindly",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l8-2",
+      "chapterId": "l8",
+      "trackId": "nepali-language",
+      "code": "L8.2",
+      "title": "Question toolkit",
+      "goal": "Ask who, what, where, when, why, how and how many.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "को?",
+          "rom": "ko?",
+          "en": "who?"
+        },
+        {
+          "np": "के?",
+          "rom": "ke?",
+          "en": "what?"
+        },
+        {
+          "np": "कहाँ?",
+          "rom": "kahā̃?",
+          "en": "where?"
+        },
+        {
+          "np": "कहिले?",
+          "rom": "kahile?",
+          "en": "when?"
+        },
+        {
+          "np": "किन?",
+          "rom": "kina?",
+          "en": "why?"
+        },
+        {
+          "np": "कति?",
+          "rom": "kati?",
+          "en": "how much / many?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l8-2-l1",
+          "title": "Who / what",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l8-2-l2",
+          "title": "Where",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l8-2-l3",
+          "title": "When / why / how",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l8-2-l4",
+          "title": "Mini interview",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l8-3",
+      "chapterId": "l8",
+      "trackId": "nepali-language",
+      "code": "L8.3",
+      "title": "Everyday verbs",
+      "goal": "Narrate a routine with common verbs.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "जानु",
+          "rom": "jānu",
+          "en": "to go"
+        },
+        {
+          "np": "आउनु",
+          "rom": "āunu",
+          "en": "to come"
+        },
+        {
+          "np": "खानु",
+          "rom": "khānu",
+          "en": "to eat"
+        },
+        {
+          "np": "पढ्नु",
+          "rom": "paḍhnu",
+          "en": "to read / study"
+        },
+        {
+          "np": "खेल्नु",
+          "rom": "khelnu",
+          "en": "to play"
+        },
+        {
+          "np": "सुत्नु",
+          "rom": "sutnu",
+          "en": "to sleep"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l8-3-l1",
+          "title": "Movement",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l8-3-l2",
+          "title": "Food",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l8-3-l3",
+          "title": "Learning and play",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l8-3-l4",
+          "title": "Routine chain",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l8-4",
+      "chapterId": "l8",
+      "trackId": "nepali-language",
+      "code": "L8.4",
+      "title": "Commands and kindness",
+      "goal": "Give and follow instructions in the right register.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "बस्नुहोस्।",
+          "rom": "basnuhos",
+          "en": "please sit"
+        },
+        {
+          "np": "आउनुहोस्।",
+          "rom": "āunuhos",
+          "en": "please come"
+        },
+        {
+          "np": "नदौड।",
+          "rom": "nadauḍa",
+          "en": "don't run"
+        },
+        {
+          "np": "मद्दत गर्नुहोस्।",
+          "rom": "maddat garnuhos",
+          "en": "please help"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l8-4-l1",
+          "title": "Familiar commands",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l8-4-l2",
+          "title": "Polite requests",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l8-4-l3",
+          "title": "Prohibitive",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l8-4-l4",
+          "title": "Cooperative game",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l9-1",
+      "chapterId": "l9",
+      "trackId": "nepali-language",
+      "code": "L9.1",
+      "title": "Halant and joining",
+      "goal": "Split and rebuild conjunct letters.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "क् + ष = क्ष",
+          "rom": "kṣa",
+          "en": "conjunct kṣa"
+        },
+        {
+          "np": "त् + र = त्र",
+          "rom": "tra",
+          "en": "conjunct tra"
+        },
+        {
+          "np": "विद्या",
+          "rom": "vidyā",
+          "en": "learning"
+        },
+        {
+          "np": "मित्र",
+          "rom": "mitra",
+          "en": "friend"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l9-1-l1",
+          "title": "Visible virāma",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l9-1-l2",
+          "title": "Consonant clusters",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l9-1-l3",
+          "title": "Split and join",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l9-1-l4",
+          "title": "Word reading",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l9-2",
+      "chapterId": "l9",
+      "trackId": "nepali-language",
+      "code": "L9.2",
+      "title": "Common conjuncts",
+      "goal": "Read reph, rakar and frequent clusters.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "प्र",
+          "rom": "pra",
+          "en": "cluster pra"
+        },
+        {
+          "np": "प्रश्न",
+          "rom": "praśna",
+          "en": "question"
+        },
+        {
+          "np": "पुस्तक",
+          "rom": "pustak",
+          "en": "book"
+        },
+        {
+          "np": "अन्न",
+          "rom": "anna",
+          "en": "grain / food"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l9-2-l1",
+          "title": "र forms",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l9-2-l2",
+          "title": "Doubled consonants",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l9-2-l3",
+          "title": "Frequent clusters",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l9-2-l4",
+          "title": "Phrase reading",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l9-3",
+      "chapterId": "l9",
+      "trackId": "nepali-language",
+      "code": "L9.3",
+      "title": "Nasals and homorganic patterns",
+      "goal": "Hear and spell nasal patterns in real words.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "अंक",
+          "rom": "aṅka",
+          "en": "number / mark"
+        },
+        {
+          "np": "घण्टा",
+          "rom": "ghaṇṭā",
+          "en": "hour / bell"
+        },
+        {
+          "np": "सन्त",
+          "rom": "santa",
+          "en": "saint"
+        },
+        {
+          "np": "सम्बन्ध",
+          "rom": "sambandha",
+          "en": "relation"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l9-3-l1",
+          "title": "ङ ञ ण न म review",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l9-3-l2",
+          "title": "Anusvāra in words",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l9-3-l3",
+          "title": "Listen and spell",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l9-3-l4",
+          "title": "Short text",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l9-4",
+      "chapterId": "l9",
+      "trackId": "nepali-language",
+      "code": "L9.4",
+      "title": "Fluency through meaning",
+      "goal": "Read a new controlled story and answer questions — never a speed race.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "बिहान विद्यालयमा",
+          "rom": "bihān vidyālayamā",
+          "en": "at school in the morning"
+        },
+        {
+          "np": "अनि",
+          "rom": "ani",
+          "en": "and / then"
+        },
+        {
+          "np": "तर",
+          "rom": "tara",
+          "en": "but"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l9-4-l1",
+          "title": "Phrase-cued reading",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l9-4-l2",
+          "title": "Repeated reading",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l9-4-l3",
+          "title": "Dialogue",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l9-4-l4",
+          "title": "Comprehension",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l10-1",
+      "chapterId": "l10",
+      "trackId": "nepali-language",
+      "code": "L10.1",
+      "title": "Digits and 0–10",
+      "goal": "Match Nepali digits to names and count objects.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "० शून्य",
+          "rom": "śūnya",
+          "en": "zero"
+        },
+        {
+          "np": "१ एक",
+          "rom": "ek",
+          "en": "one"
+        },
+        {
+          "np": "२ दुई",
+          "rom": "dui",
+          "en": "two"
+        },
+        {
+          "np": "३ तीन",
+          "rom": "tīn",
+          "en": "three"
+        },
+        {
+          "np": "५ पाँच",
+          "rom": "pā̃c",
+          "en": "five"
+        },
+        {
+          "np": "१० दस",
+          "rom": "das",
+          "en": "ten"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l10-1-l1",
+          "title": "० – ३",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l10-1-l2",
+          "title": "४ – ६",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l10-1-l3",
+          "title": "७ – १०",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l10-1-l4",
+          "title": "Count and write digits",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l10-2",
+      "chapterId": "l10",
+      "trackId": "nepali-language",
+      "code": "L10.2",
+      "title": "Teens and tens",
+      "goal": "Recognize ११–१९ and the round tens.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "११ एघार",
+          "rom": "eghāra",
+          "en": "eleven"
+        },
+        {
+          "np": "१२ बाह्र",
+          "rom": "bāhra",
+          "en": "twelve"
+        },
+        {
+          "np": "१५ पन्ध्र",
+          "rom": "pandhra",
+          "en": "fifteen"
+        },
+        {
+          "np": "२० बीस",
+          "rom": "bīs",
+          "en": "twenty"
+        },
+        {
+          "np": "५० पचास",
+          "rom": "pacās",
+          "en": "fifty"
+        },
+        {
+          "np": "१०० सय",
+          "rom": "saya",
+          "en": "hundred"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l10-2-l1",
+          "title": "११–१९ chunks",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l10-2-l2",
+          "title": "Round tens",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l10-2-l3",
+          "title": "Compare",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l10-2-l4",
+          "title": "Number bingo",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l10-3",
+      "chapterId": "l10",
+      "trackId": "nepali-language",
+      "code": "L10.3",
+      "title": "Counting to 100",
+      "goal": "Recognize sampled numbers across the 21–99 families.",
+      "xp": 180,
+      "items": [
+        {
+          "np": "२१ एक्काइस",
+          "rom": "ekkāis",
+          "en": "twenty-one"
+        },
+        {
+          "np": "३२ बत्तीस",
+          "rom": "battīs",
+          "en": "thirty-two"
+        },
+        {
+          "np": "४५ पैँतालीस",
+          "rom": "paĩtālīs",
+          "en": "forty-five"
+        },
+        {
+          "np": "७५ पचहत्तर",
+          "rom": "pacahattar",
+          "en": "seventy-five"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l10-3-l1",
+          "title": "21–39",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l10-3-l2",
+          "title": "40–69",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l10-3-l3",
+          "title": "70–99",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l10-3-l4",
+          "title": "Real labels",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l10-4",
+      "chapterId": "l10",
+      "trackId": "nepali-language",
+      "code": "L10.4",
+      "title": "Rupees and shopping",
+      "goal": "Ask prices and complete a fictional market exchange.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "रुपैयाँ",
+          "rom": "rupaiyā̃",
+          "en": "rupee(s)"
+        },
+        {
+          "np": "कति हो?",
+          "rom": "kati ho?",
+          "en": "how much is it?"
+        },
+        {
+          "np": "महँगो / सस्तो",
+          "rom": "mahãgo / sasto",
+          "en": "expensive / cheap"
+        },
+        {
+          "np": "मलाई ___ दिनुहोस्",
+          "rom": "malāī ___ dinuhos",
+          "en": "please give me ___"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l10-4-l1",
+          "title": "Currency words",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l10-4-l2",
+          "title": "Prices",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l10-4-l3",
+          "title": "More / less",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l10-4-l4",
+          "title": "Market role-play",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l10-5",
+      "chapterId": "l10",
+      "trackId": "nepali-language",
+      "code": "L10.5",
+      "title": "Clock and daily time",
+      "goal": "Tell the time and talk about parts of the day.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "कति बज्यो?",
+          "rom": "kati bajyo?",
+          "en": "what time is it?"
+        },
+        {
+          "np": "तीन बज्यो",
+          "rom": "tīn bajyo",
+          "en": "it is three o'clock"
+        },
+        {
+          "np": "साढे तीन",
+          "rom": "sāḍhe tīn",
+          "en": "half past three"
+        },
+        {
+          "np": "बिहान / साँझ",
+          "rom": "bihān / sā̃jh",
+          "en": "morning / evening"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l10-5-l1",
+          "title": "Hours",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l10-5-l2",
+          "title": "Half and quarter",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l10-5-l3",
+          "title": "Parts of day",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l10-5-l4",
+          "title": "Schedule",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l10-6",
+      "chapterId": "l10",
+      "trackId": "nepali-language",
+      "code": "L10.6",
+      "title": "Dates and calendars",
+      "goal": "Read Bikram Sambat and Gregorian date cards.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "आज",
+          "rom": "āja",
+          "en": "today"
+        },
+        {
+          "np": "भोलि",
+          "rom": "bholi",
+          "en": "tomorrow"
+        },
+        {
+          "np": "हिजो",
+          "rom": "hijo",
+          "en": "yesterday"
+        },
+        {
+          "np": "गते",
+          "rom": "gate",
+          "en": "day-of-month marker"
+        },
+        {
+          "np": "आज कति गते हो?",
+          "rom": "āja kati gate ho?",
+          "en": "what date is it today?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l10-6-l1",
+          "title": "Weekday and date",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l10-6-l2",
+          "title": "गते",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l10-6-l3",
+          "title": "BS / AD recognition",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l10-6-l4",
+          "title": "Event card",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l11-1",
+      "chapterId": "l11",
+      "trackId": "nepali-language",
+      "code": "L11.1",
+      "title": "Food and preferences",
+      "goal": "Say what you like and what you need at a meal.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "भात",
+          "rom": "bhāt",
+          "en": "cooked rice"
+        },
+        {
+          "np": "दाल",
+          "rom": "dāl",
+          "en": "lentils"
+        },
+        {
+          "np": "तरकारी",
+          "rom": "tarkārī",
+          "en": "vegetables / curry"
+        },
+        {
+          "np": "मलाई ___ मन पर्छ।",
+          "rom": "malāī ___ man parcha",
+          "en": "I like ___"
+        },
+        {
+          "np": "भोक लाग्यो",
+          "rom": "bhok lāgyo",
+          "en": "I am hungry"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l11-1-l1",
+          "title": "Staples and fruit",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l11-1-l2",
+          "title": "Like / dislike",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l11-1-l3",
+          "title": "Hunger and thirst",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l11-1-l4",
+          "title": "Meal conversation",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l11-2",
+      "chapterId": "l11",
+      "trackId": "nepali-language",
+      "code": "L11.2",
+      "title": "Body, health, feelings",
+      "goal": "Name feelings and ask an adult for help.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "टाउको",
+          "rom": "ṭāuko",
+          "en": "head"
+        },
+        {
+          "np": "आँखा",
+          "rom": "ā̃khā",
+          "en": "eye"
+        },
+        {
+          "np": "खुसी",
+          "rom": "khusī",
+          "en": "happy"
+        },
+        {
+          "np": "थाकेको",
+          "rom": "thākeko",
+          "en": "tired"
+        },
+        {
+          "np": "मलाई सन्चो छैन।",
+          "rom": "malāī sanco chaina",
+          "en": "I am not well"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l11-2-l1",
+          "title": "Body parts",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l11-2-l2",
+          "title": "Feelings",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l11-2-l3",
+          "title": "Simple needs",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l11-2-l4",
+          "title": "Wellbeing check",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l11-3",
+      "chapterId": "l11",
+      "trackId": "nepali-language",
+      "code": "L11.3",
+      "title": "Weather and nature",
+      "goal": "Give a two-sentence weather report.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "घाम",
+          "rom": "ghām",
+          "en": "sunshine"
+        },
+        {
+          "np": "पानी पर्छ",
+          "rom": "pānī parcha",
+          "en": "it rains"
+        },
+        {
+          "np": "हिउँ",
+          "rom": "hiũ",
+          "en": "snow"
+        },
+        {
+          "np": "पहाड",
+          "rom": "pahāḍ",
+          "en": "hill region"
+        },
+        {
+          "np": "आज मौसम कस्तो छ?",
+          "rom": "āja mausam kasto cha?",
+          "en": "how is the weather today?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l11-3-l1",
+          "title": "Weather",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l11-3-l2",
+          "title": "Hot and cold",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l11-3-l3",
+          "title": "Landscape",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l11-3-l4",
+          "title": "Forecast",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l11-4",
+      "chapterId": "l11",
+      "trackId": "nepali-language",
+      "code": "L11.4",
+      "title": "Daily routine",
+      "goal": "Order and create a four-step routine.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "उठ्नु",
+          "rom": "uṭhnu",
+          "en": "to get up"
+        },
+        {
+          "np": "मुख धुनु",
+          "rom": "mukh dhunu",
+          "en": "to wash the face"
+        },
+        {
+          "np": "घर फर्कनु",
+          "rom": "ghar pharkanu",
+          "en": "to return home"
+        },
+        {
+          "np": "म बिहान उठ्छु।",
+          "rom": "ma bihān uṭhchu",
+          "en": "I get up in the morning"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l11-4-l1",
+          "title": "Wake and wash",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l11-4-l2",
+          "title": "School and play",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l11-4-l3",
+          "title": "Meals and sleep",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l11-4-l4",
+          "title": "Sequence with time",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l12-1",
+      "chapterId": "l12",
+      "trackId": "nepali-language",
+      "code": "L12.1",
+      "title": "Present patterns",
+      "goal": "Contrast habitual and ongoing action.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "म खेल्छु।",
+          "rom": "ma khelchu",
+          "en": "I play"
+        },
+        {
+          "np": "म खेल्दै छु।",
+          "rom": "ma kheldai chu",
+          "en": "I am playing"
+        },
+        {
+          "np": "म खेल्दिनँ।",
+          "rom": "ma kheldinã",
+          "en": "I do not play"
+        },
+        {
+          "np": "उहाँ पढ्नुहुन्छ।",
+          "rom": "uhā̃ paḍhnuhuncha",
+          "en": "he/she (resp.) reads"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l12-1-l1",
+          "title": "Habitual",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l12-1-l2",
+          "title": "Ongoing",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l12-1-l3",
+          "title": "Negative",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l12-1-l4",
+          "title": "Conversation",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l12-2",
+      "chapterId": "l12",
+      "trackId": "nepali-language",
+      "code": "L12.2",
+      "title": "Past events",
+      "goal": "Tell a three-event story about yesterday.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "म गएँ।",
+          "rom": "ma gaẽ",
+          "en": "I went"
+        },
+        {
+          "np": "मैले खाना खाएँ।",
+          "rom": "maile khānā khāẽ",
+          "en": "I ate food"
+        },
+        {
+          "np": "हिजो",
+          "rom": "hijo",
+          "en": "yesterday"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l12-2-l1",
+          "title": "Was / did",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l12-2-l2",
+          "title": "Past time words",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l12-2-l3",
+          "title": "ले chunks",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l12-2-l4",
+          "title": "Yesterday story",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l12-3",
+      "chapterId": "l12",
+      "trackId": "nepali-language",
+      "code": "L12.3",
+      "title": "Plans and future",
+      "goal": "Invite a friend and make a plan.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "म भोलि खेल्छु।",
+          "rom": "ma bholi khelchu",
+          "en": "I will play tomorrow"
+        },
+        {
+          "np": "म जानेछु।",
+          "rom": "ma jānechu",
+          "en": "I will go"
+        },
+        {
+          "np": "जाऔँ!",
+          "rom": "jāaũ!",
+          "en": "let's go!"
+        },
+        {
+          "np": "तिमी आउँछौ?",
+          "rom": "timī āũchau?",
+          "en": "will you come?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l12-3-l1",
+          "title": "Tomorrow",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l12-3-l2",
+          "title": "Intention",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l12-3-l3",
+          "title": "Invitations",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l12-3-l4",
+          "title": "Plan together",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "l12-4",
+      "chapterId": "l12",
+      "trackId": "nepali-language",
+      "code": "L12.4",
+      "title": "Connected story and final language quest",
+      "goal": "Understand, retell and extend a story built from mastered language.",
+      "xp": 250,
+      "items": [
+        {
+          "np": "अनि",
+          "rom": "ani",
+          "en": "and / then"
+        },
+        {
+          "np": "तर",
+          "rom": "tara",
+          "en": "but"
+        },
+        {
+          "np": "किनभने",
+          "rom": "kinabhane",
+          "en": "because"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "l12-4-l1",
+          "title": "Predict from pictures",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "l12-4-l2",
+          "title": "Listen and read",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "l12-4-l3",
+          "title": "Retell",
+          "phase": "Retrieve",
+          "minutes": 7
+        },
+        {
+          "id": "l12-4-l4",
+          "title": "Create an alternate ending",
+          "phase": "Use",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c1-1",
+      "chapterId": "c1",
+      "trackId": "nepali-culture",
+      "code": "C1.1",
+      "title": "Greetings in context",
+      "goal": "Notice that people choose greetings for the moment and the relationship.",
+      "xp": 100,
+      "items": [
+        {
+          "np": "नमस्ते",
+          "rom": "namaste",
+          "en": "greeting"
+        },
+        {
+          "np": "स्वागत छ",
+          "rom": "svāgat cha",
+          "en": "welcome"
+        },
+        {
+          "np": "धन्यवाद",
+          "rom": "dhanyavād",
+          "en": "thank you"
+        },
+        {
+          "np": "हजुर",
+          "rom": "hajur",
+          "en": "respectful acknowledgment"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c1-1-l1",
+          "title": "Observe namaste and namaskār",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c1-1-l2",
+          "title": "Words and gestures",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c1-1-l3",
+          "title": "When people choose other greetings",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c1-1-l4",
+          "title": "Greet a guest in a story",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c1-2",
+      "chapterId": "c1",
+      "trackId": "nepali-culture",
+      "code": "C1.2",
+      "title": "Respect and hospitality",
+      "goal": "Make context-sensitive choices as a guest — and ask instead of assuming.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "लिनुहोस्",
+          "rom": "linuhos",
+          "en": "please take"
+        },
+        {
+          "np": "खानुहोस्",
+          "rom": "khānuhos",
+          "en": "please eat"
+        },
+        {
+          "np": "म भित्र आउन सक्छु?",
+          "rom": "ma bhitra āuna sakchu?",
+          "en": "may I come inside?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c1-2-l1",
+          "title": "Respectful address",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c1-2-l2",
+          "title": "Offering and receiving",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c1-2-l3",
+          "title": "Shoes and household variation",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c1-2-l4",
+          "title": "Ask, don't assume",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c1-3",
+      "chapterId": "c1",
+      "trackId": "nepali-culture",
+      "code": "C1.3",
+      "title": "Many identities, one classroom",
+      "goal": "Tell respectful description apart from stereotyping.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "हामी फरक छौँ।",
+          "rom": "hāmī pharak chaũ",
+          "en": "we are different"
+        },
+        {
+          "np": "हामी बराबर छौँ।",
+          "rom": "hāmī barābar chaũ",
+          "en": "we are equal"
+        },
+        {
+          "np": "मेरो भाषा",
+          "rom": "mero bhāṣā",
+          "en": "my language"
+        },
+        {
+          "np": "सम्मान",
+          "rom": "sammān",
+          "en": "respect"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c1-3-l1",
+          "title": "Names, languages, places",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c1-3-l2",
+          "title": "Similarities and differences",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c1-3-l3",
+          "title": "Identity is self-described",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c1-3-l4",
+          "title": "Classroom pledge",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c2-1",
+      "chapterId": "c2",
+      "trackId": "nepali-culture",
+      "code": "C2.1",
+      "title": "Six ऋतु",
+      "goal": "Build the six-season wheel and notice regional differences.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "वसन्त",
+          "rom": "vasanta",
+          "en": "spring"
+        },
+        {
+          "np": "ग्रीष्म",
+          "rom": "grīṣma",
+          "en": "summer"
+        },
+        {
+          "np": "वर्षा",
+          "rom": "varṣā",
+          "en": "monsoon"
+        },
+        {
+          "np": "शरद्",
+          "rom": "śarad",
+          "en": "autumn"
+        },
+        {
+          "np": "हेमन्त",
+          "rom": "hemanta",
+          "en": "pre-winter"
+        },
+        {
+          "np": "शिशिर",
+          "rom": "śiśira",
+          "en": "winter"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c2-1-l1",
+          "title": "The yearly cycle",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c2-1-l2",
+          "title": "Spring, summer, monsoon",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c2-1-l3",
+          "title": "Autumn, pre-winter, winter",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c2-1-l4",
+          "title": "Clothing and activity",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c2-2",
+      "chapterId": "c2",
+      "trackId": "nepali-culture",
+      "code": "C2.2",
+      "title": "Bikram Sambat months 1–6",
+      "goal": "Order Baisakh–Asoj and read dated cards.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "वैशाख",
+          "rom": "Baisākh",
+          "en": "1st BS month"
+        },
+        {
+          "np": "जेठ",
+          "rom": "Jeṭh",
+          "en": "2nd BS month"
+        },
+        {
+          "np": "असार",
+          "rom": "Asār",
+          "en": "3rd BS month"
+        },
+        {
+          "np": "साउन",
+          "rom": "Sāun",
+          "en": "4th BS month"
+        },
+        {
+          "np": "भदौ",
+          "rom": "Bhadau",
+          "en": "5th BS month"
+        },
+        {
+          "np": "असोज",
+          "rom": "Asoj",
+          "en": "6th BS month"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c2-2-l1",
+          "title": "BS as a calendar used in Nepal",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c2-2-l2",
+          "title": "Baisakh–Asar",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c2-2-l3",
+          "title": "Shrawan–Ashwin",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c2-2-l4",
+          "title": "Date card",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c2-3",
+      "chapterId": "c2",
+      "trackId": "nepali-culture",
+      "code": "C2.3",
+      "title": "Bikram Sambat months 7–12",
+      "goal": "Complete the year and compare calendars.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "कात्तिक",
+          "rom": "Kāttik",
+          "en": "7th BS month"
+        },
+        {
+          "np": "मंसिर",
+          "rom": "Maṃsir",
+          "en": "8th BS month"
+        },
+        {
+          "np": "पुस",
+          "rom": "Pus",
+          "en": "9th BS month"
+        },
+        {
+          "np": "माघ",
+          "rom": "Māgh",
+          "en": "10th BS month"
+        },
+        {
+          "np": "फागुन",
+          "rom": "Phāgun",
+          "en": "11th BS month"
+        },
+        {
+          "np": "चैत",
+          "rom": "Cait",
+          "en": "12th BS month"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c2-3-l1",
+          "title": "Kartik–Poush",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c2-3-l2",
+          "title": "Magh–Chaitra",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c2-3-l3",
+          "title": "The whole year",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c2-3-l4",
+          "title": "Compare calendars",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c2-4",
+      "chapterId": "c2",
+      "trackId": "nepali-culture",
+      "code": "C2.4",
+      "title": "Calendars in daily life",
+      "goal": "Read a real, versioned calendar page and make an event card.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "पात्रो",
+          "rom": "pātro",
+          "en": "calendar / almanac"
+        },
+        {
+          "np": "मिति",
+          "rom": "miti",
+          "en": "date"
+        },
+        {
+          "np": "गते",
+          "rom": "gate",
+          "en": "day marker"
+        },
+        {
+          "np": "साल",
+          "rom": "sāl",
+          "en": "year"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c2-4-l1",
+          "title": "School and event cards",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c2-4-l2",
+          "title": "Date words",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c2-4-l3",
+          "title": "Changing festival dates",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c2-4-l4",
+          "title": "Dual-calendar page",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c3-1",
+      "chapterId": "c3",
+      "trackId": "nepali-culture",
+      "code": "C3.1",
+      "title": "Himal, Pahad, Terai",
+      "goal": "Place landscapes on a cross-section and explain two differences.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "हिमाल",
+          "rom": "Himāl",
+          "en": "high mountain region"
+        },
+        {
+          "np": "पहाड",
+          "rom": "Pahāḍ",
+          "en": "hill region"
+        },
+        {
+          "np": "तराई",
+          "rom": "Tarāī",
+          "en": "plains"
+        },
+        {
+          "np": "नदी",
+          "rom": "nadī",
+          "en": "river"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c3-1-l1",
+          "title": "Elevation regions",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c3-1-l2",
+          "title": "Environment and livelihoods",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c3-1-l3",
+          "title": "Cities and villages",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c3-1-l4",
+          "title": "Compare without ranking",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c3-2",
+      "chapterId": "c3",
+      "trackId": "nepali-culture",
+      "code": "C3.2",
+      "title": "Seven provinces",
+      "goal": "Place all seven provinces with map support.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "कोशी",
+          "rom": "Koshi",
+          "en": "province 1"
+        },
+        {
+          "np": "मधेश",
+          "rom": "Madhesh",
+          "en": "province 2"
+        },
+        {
+          "np": "बागमती",
+          "rom": "Bagmati",
+          "en": "province 3"
+        },
+        {
+          "np": "गण्डकी",
+          "rom": "Gandaki",
+          "en": "province 4"
+        },
+        {
+          "np": "लुम्बिनी",
+          "rom": "Lumbini",
+          "en": "province 5"
+        },
+        {
+          "np": "कर्णाली",
+          "rom": "Karnali",
+          "en": "province 6"
+        },
+        {
+          "np": "सुदूरपश्चिम",
+          "rom": "Sudurpashchim",
+          "en": "province 7"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c3-2-l1",
+          "title": "Map overview",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c3-2-l2",
+          "title": "East and centre",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c3-2-l3",
+          "title": "West",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c3-2-l4",
+          "title": "Province puzzle",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c3-3",
+      "chapterId": "c3",
+      "trackId": "nepali-culture",
+      "code": "C3.3",
+      "title": "Landmarks: natural",
+      "goal": "Recognize major mountains, rivers and lakes, and choose conservation actions.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "सगरमाथा",
+          "rom": "Sagarmāthā",
+          "en": "Mount Everest"
+        },
+        {
+          "np": "ताल",
+          "rom": "tāl",
+          "en": "lake"
+        },
+        {
+          "np": "संरक्षण",
+          "rom": "saṃrakṣaṇ",
+          "en": "conservation"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c3-3-l1",
+          "title": "Sagarmatha",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c3-3-l2",
+          "title": "Rivers and lakes",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c3-3-l3",
+          "title": "Conservation",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c3-3-l4",
+          "title": "Responsible visitor",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c3-4",
+      "chapterId": "c3",
+      "trackId": "nepali-culture",
+      "code": "C3.4",
+      "title": "Landmarks: lived places",
+      "goal": "See places as homes with people, not only monuments.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "काठमाडौं",
+          "rom": "Kāṭhmāḍaũ",
+          "en": "Kathmandu"
+        },
+        {
+          "np": "लुम्बिनी",
+          "rom": "Lumbinī",
+          "en": "Lumbini"
+        },
+        {
+          "np": "जनकपुर",
+          "rom": "Janakpur",
+          "en": "Janakpur"
+        },
+        {
+          "np": "गाउँ / सहर",
+          "rom": "gāũ / sahar",
+          "en": "village / city"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c3-4-l1",
+          "title": "Kathmandu Valley",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c3-4-l2",
+          "title": "Lumbini",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c3-4-l3",
+          "title": "Janakpur and Pokhara",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c3-4-l4",
+          "title": "Place has people",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c4-1",
+      "chapterId": "c4",
+      "trackId": "nepali-culture",
+      "code": "C4.1",
+      "title": "A multilingual country",
+      "goal": "Tell language, script and country apart.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "भाषा",
+          "rom": "bhāṣā",
+          "en": "language"
+        },
+        {
+          "np": "मातृभाषा",
+          "rom": "mātṛbhāṣā",
+          "en": "home language"
+        },
+        {
+          "np": "लिपि",
+          "rom": "lipi",
+          "en": "script"
+        },
+        {
+          "np": "बहुभाषी",
+          "rom": "bahubhāṣī",
+          "en": "multilingual"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c4-1-l1",
+          "title": "Language vs script",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c4-1-l2",
+          "title": "Listen to greetings",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c4-1-l3",
+          "title": "One person, many languages",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c4-1-l4",
+          "title": "Language portrait",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c4-2",
+      "chapterId": "c4",
+      "trackId": "nepali-culture",
+      "code": "C4.2",
+      "title": "Language sampler I",
+      "goal": "Match labelled speaker clips to taught languages.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "नेपाली",
+          "rom": "Nepālī",
+          "en": "Nepali"
+        },
+        {
+          "np": "मैथिली",
+          "rom": "Maithilī",
+          "en": "Maithili"
+        },
+        {
+          "np": "भोजपुरी",
+          "rom": "Bhojpurī",
+          "en": "Bhojpuri"
+        },
+        {
+          "np": "नेपाल भाषा",
+          "rom": "Nepāl Bhāṣā",
+          "en": "Nepal Bhasa"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c4-2-l1",
+          "title": "Nepali",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c4-2-l2",
+          "title": "Maithili and Bhojpuri",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c4-2-l3",
+          "title": "Nepal Bhasa",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c4-2-l4",
+          "title": "Compare sounds and scripts",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c4-3",
+      "chapterId": "c4",
+      "trackId": "nepali-culture",
+      "code": "C4.3",
+      "title": "Language sampler II",
+      "goal": "Learn that a community name is not one single language.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "तामाङ",
+          "rom": "Tāmāṅ",
+          "en": "Tamang"
+        },
+        {
+          "np": "गुरुङ",
+          "rom": "Guruṅ",
+          "en": "Gurung"
+        },
+        {
+          "np": "थारू",
+          "rom": "Thārū",
+          "en": "Tharu"
+        },
+        {
+          "np": "राई भाषाहरू",
+          "rom": "Rāī bhāṣāharū",
+          "en": "Rai languages"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c4-3-l1",
+          "title": "Tamang, Gurung, Magar",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c4-3-l2",
+          "title": "Tharu",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c4-3-l3",
+          "title": "Limbu and Rai languages",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c4-3-l4",
+          "title": "“Rai” is plural",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c4-4",
+      "chapterId": "c4",
+      "trackId": "nepali-culture",
+      "code": "C4.4",
+      "title": "Keep languages thriving",
+      "goal": "Choose actions that support home languages.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "सिक्नु",
+          "rom": "siknu",
+          "en": "to learn"
+        },
+        {
+          "np": "बोल्नु",
+          "rom": "bolnu",
+          "en": "to speak"
+        },
+        {
+          "np": "जोगाउनु",
+          "rom": "jogāunu",
+          "en": "to protect / preserve"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c4-4-l1",
+          "title": "Home use",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c4-4-l2",
+          "title": "Books and media",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c4-4-l3",
+          "title": "Ask and learn",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c4-4-l4",
+          "title": "Multilingual welcome wall",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-1",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.1",
+      "title": "What is a community?",
+      "goal": "Start from equality, then learn the words people use for themselves.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "समुदाय",
+          "rom": "samudāya",
+          "en": "community"
+        },
+        {
+          "np": "पहिचान",
+          "rom": "pahicān",
+          "en": "identity"
+        },
+        {
+          "np": "बराबर",
+          "rom": "barābar",
+          "en": "equal"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-1-l1",
+          "title": "Self-description",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-1-l2",
+          "title": "Family, community, citizenship",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-1-l3",
+          "title": "Identity terms in context",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-1-l4",
+          "title": "Equality rule",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-2",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.2",
+      "title": "Newar, Tamang, Sherpa",
+      "goal": "Match a person to their own stated details, not to clothing or face.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "नेवार",
+          "rom": "Newar",
+          "en": "Newar"
+        },
+        {
+          "np": "तामाङ",
+          "rom": "Tamang",
+          "en": "Tamang"
+        },
+        {
+          "np": "शेर्पा",
+          "rom": "Sherpa",
+          "en": "Sherpa"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-2-l1",
+          "title": "Newar perspectives",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-2-l2",
+          "title": "Tamang perspectives",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-2-l3",
+          "title": "Sherpa perspectives",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-2-l4",
+          "title": "Contemporary family stories",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-3",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.3",
+      "title": "Gurung and Magar",
+      "goal": "Build accurate “some / may” statements.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "गुरुङ / तमु",
+          "rom": "Gurung / Tamu",
+          "en": "Gurung / Tamu"
+        },
+        {
+          "np": "मगर",
+          "rom": "Magar",
+          "en": "Magar"
+        },
+        {
+          "np": "परम्परा",
+          "rom": "paramparā",
+          "en": "tradition"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-3-l1",
+          "title": "Gurung / Tamu voices",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-3-l2",
+          "title": "Magar voices",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-3-l3",
+          "title": "Home and urban diaspora",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-3-l4",
+          "title": "Commonality and difference",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-4",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.4",
+      "title": "Tharu and Madhesi identities",
+      "goal": "Sort broad identity, one language and one region.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "थारू",
+          "rom": "Tharu",
+          "en": "Tharu"
+        },
+        {
+          "np": "मधेशी",
+          "rom": "Madhesi",
+          "en": "Madhesi"
+        },
+        {
+          "np": "मधेश",
+          "rom": "Madhesh",
+          "en": "Madhesh region"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-4-l1",
+          "title": "Tharu diversity",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-4-l2",
+          "title": "Madhesi as a broad identity",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-4-l3",
+          "title": "Languages and Madhesh",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-4-l4",
+          "title": "Contemporary lives",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-5",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.5",
+      "title": "Rai and Limbu",
+      "goal": "Learn endonyms and plural languages.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "राई",
+          "rom": "Rai",
+          "en": "Rai"
+        },
+        {
+          "np": "लिम्बू / याक्थुङ",
+          "rom": "Limbu / Yakthung",
+          "en": "Limbu"
+        },
+        {
+          "np": "उधौली / उभौली",
+          "rom": "Udhauli / Ubhauli",
+          "en": "seasonal observances"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-5-l1",
+          "title": "Rai / Kiranti plurality",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-5-l2",
+          "title": "Limbu / Yakthung voices",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-5-l3",
+          "title": "Nature traditions as examples",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-5-l4",
+          "title": "Modern lives",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-6",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.6",
+      "title": "Bahun and Chhetri / Khas",
+      "goal": "Separate description from rank.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "बाहुन",
+          "rom": "Bahun",
+          "en": "Bahun"
+        },
+        {
+          "np": "क्षेत्री",
+          "rom": "Kṣetrī",
+          "en": "Chhetri"
+        },
+        {
+          "np": "विविधता",
+          "rom": "vividhatā",
+          "en": "diversity"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-6-l1",
+          "title": "Names and variation",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-6-l2",
+          "title": "Language and religion are not automatic",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-6-l3",
+          "title": "Many regions and jobs",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-6-l4",
+          "title": "Equality",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c5-7",
+      "chapterId": "c5",
+      "trackId": "nepali-culture",
+      "code": "C5.7",
+      "title": "Many more communities",
+      "goal": "Practise the language of “some”, “many”, “this speaker says”.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "आदिवासी जनजाति",
+          "rom": "Ādivāsī Janajāti",
+          "en": "Indigenous nationality term"
+        },
+        {
+          "np": "दलित",
+          "rom": "Dalit",
+          "en": "self / policy identity term"
+        },
+        {
+          "np": "विविध",
+          "rom": "vividha",
+          "en": "diverse"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c5-7-l1",
+          "title": "The list is incomplete",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c5-7-l2",
+          "title": "More examples",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c5-7-l3",
+          "title": "How to learn from a person or source",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c5-7-l4",
+          "title": "Class quilt",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c6-1",
+      "chapterId": "c6",
+      "trackId": "nepali-culture",
+      "code": "C6.1",
+      "title": "Dashain",
+      "goal": "Arrange a non-exhaustive festival sequence and choose inclusive statements.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "दशैँ",
+          "rom": "Daśaĩ",
+          "en": "Dashain"
+        },
+        {
+          "np": "टीका",
+          "rom": "ṭīkā",
+          "en": "tika"
+        },
+        {
+          "np": "जमरा",
+          "rom": "jamarā",
+          "en": "jamara sprouts"
+        },
+        {
+          "np": "पिङ",
+          "rom": "piṅ",
+          "en": "swing"
+        },
+        {
+          "np": "आशीर्वाद",
+          "rom": "āśīrvād",
+          "en": "blessing"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c6-1-l1",
+          "title": "Why families gather",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c6-1-l2",
+          "title": "Ghatasthapana and jamara",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c6-1-l3",
+          "title": "Tika and blessings",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c6-1-l4",
+          "title": "Food, swings, and families who do not observe",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c6-2",
+      "chapterId": "c6",
+      "trackId": "nepali-culture",
+      "code": "C6.2",
+      "title": "Tihar: days 1–2",
+      "goal": "Order the first days and choose safe animal care.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "तिहार",
+          "rom": "Tihār",
+          "en": "Tihar"
+        },
+        {
+          "np": "काग तिहार",
+          "rom": "Kāg Tihār",
+          "en": "crow day"
+        },
+        {
+          "np": "कुकुर तिहार",
+          "rom": "Kukur Tihār",
+          "en": "dog day"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c6-2-l1",
+          "title": "Five-day overview",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c6-2-l2",
+          "title": "Kag Tihar",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c6-2-l3",
+          "title": "Kukur Tihar",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c6-2-l4",
+          "title": "Care vs symbol",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c6-3",
+      "chapterId": "c6",
+      "trackId": "nepali-culture",
+      "code": "C6.3",
+      "title": "Tihar: days 3–5",
+      "goal": "Build the five-day wheel with taught variants.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "लक्ष्मी पूजा",
+          "rom": "Lakṣmī Pūjā",
+          "en": "Laxmi Puja"
+        },
+        {
+          "np": "म्ह पूजा",
+          "rom": "Mha Pūjā",
+          "en": "Mha Puja (Newar)"
+        },
+        {
+          "np": "भाइ टीका",
+          "rom": "Bhāī Ṭīkā",
+          "en": "Bhai Tika"
+        },
+        {
+          "np": "देउसी-भैलो",
+          "rom": "deusī-bhailo",
+          "en": "festival songs"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c6-3-l1",
+          "title": "Gai Tihar / Laxmi Puja",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c6-3-l2",
+          "title": "Govardhan and Mha Puja",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c6-3-l3",
+          "title": "Bhai Tika",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c6-3-l4",
+          "title": "Lights and deusi-bhailo safety",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c6-4",
+      "chapterId": "c6",
+      "trackId": "nepali-culture",
+      "code": "C6.4",
+      "title": "Holi",
+      "goal": "Choose consent-respecting actions.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "होली",
+          "rom": "Holī",
+          "en": "Holi"
+        },
+        {
+          "np": "रङ",
+          "rom": "raṅ",
+          "en": "color"
+        },
+        {
+          "np": "रङ लगाऊँ?",
+          "rom": "raṅ lagāũ?",
+          "en": "may I apply color?"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c6-4-l1",
+          "title": "Colors and spring",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c6-4-l2",
+          "title": "Regional days",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c6-4-l3",
+          "title": "Consent and safety",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c6-4-l4",
+          "title": "Color art without throwing",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c6-5",
+      "chapterId": "c6",
+      "trackId": "nepali-culture",
+      "code": "C6.5",
+      "title": "Teej",
+      "goal": "Interpret three perspectives without pressure or gender policing.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "हरितालिका तीज",
+          "rom": "Haritālikā Tīj",
+          "en": "Teej"
+        },
+        {
+          "np": "दर",
+          "rom": "dar",
+          "en": "festive meal"
+        },
+        {
+          "np": "गीत",
+          "rom": "gīt",
+          "en": "song"
+        },
+        {
+          "np": "व्रत",
+          "rom": "vrata",
+          "en": "fast / vow"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c6-5-l1",
+          "title": "Songs, dance, gathering",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c6-5-l2",
+          "title": "Fasting is an adult's choice",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c6-5-l3",
+          "title": "Worship and variation",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c6-5-l4",
+          "title": "Contemporary views",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c7-1",
+      "chapterId": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7.1",
+      "title": "Buddha Jayanti",
+      "goal": "Link place and observance, and choose a compassionate action.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "बुद्ध जयन्ती",
+          "rom": "Buddha Jayantī",
+          "en": "Buddha Jayanti"
+        },
+        {
+          "np": "शान्ति",
+          "rom": "śānti",
+          "en": "peace"
+        },
+        {
+          "np": "दया",
+          "rom": "dayā",
+          "en": "compassion"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c7-1-l1",
+          "title": "Lumbini and observance",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c7-1-l2",
+          "title": "Lamps, prayer, generosity",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c7-1-l3",
+          "title": "Varied participation",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c7-1-l4",
+          "title": "Kindness action",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c7-2",
+      "chapterId": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7.2",
+      "title": "Losar / Lhosar plurality",
+      "goal": "Match each named observance to its taught community context.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "ल्होसार",
+          "rom": "Lhosar",
+          "en": "new year"
+        },
+        {
+          "np": "तमु ल्होसार",
+          "rom": "Tamu Lhosar",
+          "en": "Tamu Lhosar"
+        },
+        {
+          "np": "सोनाम ल्होसार",
+          "rom": "Sonam Lhosar",
+          "en": "Sonam Lhosar"
+        },
+        {
+          "np": "ग्याल्पो लोसार",
+          "rom": "Gyalpo Losar",
+          "en": "Gyalpo Losar"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c7-2-l1",
+          "title": "The idea of new year",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c7-2-l2",
+          "title": "Tamu Lhosar",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c7-2-l3",
+          "title": "Sonam and Gyalpo Lhosar",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c7-2-l4",
+          "title": "Community and date variation",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c7-3",
+      "chapterId": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7.3",
+      "title": "Chhath",
+      "goal": "Sort sunrise and sunset scenes and respectful behavior.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "छठ",
+          "rom": "Chhaṭh",
+          "en": "Chhath"
+        },
+        {
+          "np": "सूर्य",
+          "rom": "sūrya",
+          "en": "sun"
+        },
+        {
+          "np": "घाट",
+          "rom": "ghāṭ",
+          "en": "riverbank steps"
+        },
+        {
+          "np": "प्रसाद",
+          "rom": "prasād",
+          "en": "prasad"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c7-3-l1",
+          "title": "Sun and water",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c7-3-l2",
+          "title": "Offerings and preparation",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c7-3-l3",
+          "title": "Sunrise / sunset sequence",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c7-3-l4",
+          "title": "Water and crowd safety",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c7-4",
+      "chapterId": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7.4",
+      "title": "Maghe Sankranti",
+      "goal": "Build a seasonal food table without declaring one menu mandatory.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "माघे सङ्क्रान्ति",
+          "rom": "Māghe Saṅkrānti",
+          "en": "Maghe Sankranti"
+        },
+        {
+          "np": "माघी",
+          "rom": "Māghī",
+          "en": "Maghi"
+        },
+        {
+          "np": "चाकु",
+          "rom": "cāku",
+          "en": "molasses sweet"
+        },
+        {
+          "np": "तरुल",
+          "rom": "tarul",
+          "en": "yam"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c7-4-l1",
+          "title": "A seasonal marker",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c7-4-l2",
+          "title": "Foods as examples",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c7-4-l3",
+          "title": "Maghi and other variations",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c7-4-l4",
+          "title": "Compare home practices",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c7-5",
+      "chapterId": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7.5",
+      "title": "Janai Purnima / Raksha Bandhan / Kwati Punhi",
+      "goal": "One date, plural observances.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "जनै पूर्णिमा",
+          "rom": "Janai Pūrṇimā",
+          "en": "Janai Purnima"
+        },
+        {
+          "np": "रक्षा बन्धन",
+          "rom": "Rakṣā Bandhan",
+          "en": "Raksha Bandhan"
+        },
+        {
+          "np": "क्वाँटी पुन्हि",
+          "rom": "Kwā̃ṭī Punhi",
+          "en": "Kwati Punhi"
+        },
+        {
+          "np": "डोरो",
+          "rom": "ḍoro",
+          "en": "protective thread"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c7-5-l1",
+          "title": "Multiple names",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c7-5-l2",
+          "title": "Sacred thread and raksha band",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c7-5-l3",
+          "title": "Kwati and Newar context",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c7-5-l4",
+          "title": "Respect choice",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c7-6",
+      "chapterId": "c7",
+      "trackId": "nepali-culture",
+      "code": "C7.6",
+      "title": "Indra Jatra / Yenya Punhi",
+      "goal": "Read a festival scene and choose respectful spectator behavior.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "इन्द्र जात्रा",
+          "rom": "Indra Jātrā",
+          "en": "Indra Jatra"
+        },
+        {
+          "np": "येँया पुन्हि",
+          "rom": "Yẽyā Punhi",
+          "en": "Yenya Punhi"
+        },
+        {
+          "np": "जात्रा",
+          "rom": "jātrā",
+          "en": "procession / festival"
+        },
+        {
+          "np": "लाखे",
+          "rom": "Lākhe",
+          "en": "masked dancer"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c7-6-l1",
+          "title": "Kathmandu Valley setting",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c7-6-l2",
+          "title": "Chariots, masks, music",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c7-6-l3",
+          "title": "Living Newar context",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c7-6-l4",
+          "title": "Crowd and sacred-space respect",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c8-1",
+      "chapterId": "c8",
+      "trackId": "nepali-culture",
+      "code": "C8.1",
+      "title": "Meals across Nepal",
+      "goal": "Compare two menus respectfully.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "दाल",
+          "rom": "dāl",
+          "en": "lentils"
+        },
+        {
+          "np": "भात",
+          "rom": "bhāt",
+          "en": "rice"
+        },
+        {
+          "np": "ढिँडो",
+          "rom": "ḍhĩḍo",
+          "en": "dhido"
+        },
+        {
+          "np": "अचार",
+          "rom": "acār",
+          "en": "pickle"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c8-1-l1",
+          "title": "Dal-bhat-tarkari as one pattern",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c8-1-l2",
+          "title": "Roti and dhido",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c8-1-l3",
+          "title": "Rice, noodles, local variation",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c8-1-l4",
+          "title": "Build a fictional meal",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c8-2",
+      "chapterId": "c8",
+      "trackId": "nepali-culture",
+      "code": "C8.2",
+      "title": "Community food stories",
+      "goal": "Follow a recipe sequence and reject “only X may eat Y”.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "मःमः",
+          "rom": "momo",
+          "en": "momo"
+        },
+        {
+          "np": "योमरी",
+          "rom": "yomarī",
+          "en": "yomari"
+        },
+        {
+          "np": "सेल रोटी",
+          "rom": "sel roṭī",
+          "en": "sel roti"
+        },
+        {
+          "np": "गुन्द्रुक",
+          "rom": "gundruk",
+          "en": "gundruk"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c8-2-l1",
+          "title": "Momo, widely shared",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c8-2-l2",
+          "title": "Yomari",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c8-2-l3",
+          "title": "Sel roti and festivals",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c8-2-l4",
+          "title": "Reviewer-chosen examples",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c8-3",
+      "chapterId": "c8",
+      "trackId": "nepali-culture",
+      "code": "C8.3",
+      "title": "Homes, school, work, play",
+      "goal": "Compare lives without poverty spectacle or ranking.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "घर",
+          "rom": "ghar",
+          "en": "home"
+        },
+        {
+          "np": "काम",
+          "rom": "kām",
+          "en": "work"
+        },
+        {
+          "np": "बजार",
+          "rom": "bajār",
+          "en": "market"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c8-3-l1",
+          "title": "Varied homes",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c8-3-l2",
+          "title": "Routes to school",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c8-3-l3",
+          "title": "Adults' work",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c8-3-l4",
+          "title": "Play and technology",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c8-4",
+      "chapterId": "c8",
+      "trackId": "nepali-culture",
+      "code": "C8.4",
+      "title": "Caring for place",
+      "goal": "Sort actions by impact and make a two-action pledge.",
+      "xp": 110,
+      "items": [
+        {
+          "np": "सफा",
+          "rom": "saphā",
+          "en": "clean"
+        },
+        {
+          "np": "फोहोर",
+          "rom": "phohor",
+          "en": "waste"
+        },
+        {
+          "np": "पानी बचाऔँ",
+          "rom": "pānī bacāaũ",
+          "en": "let's save water"
+        },
+        {
+          "np": "पुनः प्रयोग",
+          "rom": "punaḥ prayog",
+          "en": "reuse"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c8-4-l1",
+          "title": "Water and waste",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c8-4-l2",
+          "title": "Animals and farms",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c8-4-l3",
+          "title": "City and trail stewardship",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c8-4-l4",
+          "title": "Child-safe action plan",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c9-1",
+      "chapterId": "c9",
+      "trackId": "nepali-culture",
+      "code": "C9.1",
+      "title": "Clothing and adornment",
+      "goal": "Match a garment to its named story and context.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "दौरा सुरुवाल",
+          "rom": "daurā suruwāl",
+          "en": "daura suruwal"
+        },
+        {
+          "np": "गुन्यू चोलो",
+          "rom": "gunyū colo",
+          "en": "gunyu cholo"
+        },
+        {
+          "np": "ढाका",
+          "rom": "ḍhākā",
+          "en": "dhaka textile"
+        },
+        {
+          "np": "पोसाक",
+          "rom": "posāk",
+          "en": "clothing"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c9-1-l1",
+          "title": "Everyday vs special occasion",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c9-1-l2",
+          "title": "Daura-suruwal, gunyu-cholo as examples",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c9-1-l3",
+          "title": "First-person stories",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c9-1-l4",
+          "title": "Textile detail",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c9-2",
+      "chapterId": "c9",
+      "trackId": "nepali-culture",
+      "code": "C9.2",
+      "title": "Instruments",
+      "goal": "Match audio to instrument and repeat a rhythm.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "मादल",
+          "rom": "mādal",
+          "en": "madal drum"
+        },
+        {
+          "np": "सारङ्गी",
+          "rom": "sāraṅgī",
+          "en": "sarangi"
+        },
+        {
+          "np": "बाँसुरी",
+          "rom": "bā̃surī",
+          "en": "bamboo flute"
+        },
+        {
+          "np": "डम्फु",
+          "rom": "ḍamphu",
+          "en": "damphu"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c9-2-l1",
+          "title": "Madal rhythm",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c9-2-l2",
+          "title": "Sarangi",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c9-2-l3",
+          "title": "Bansuri and damphu",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c9-2-l4",
+          "title": "Soundscape",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c9-3",
+      "chapterId": "c9",
+      "trackId": "nepali-culture",
+      "code": "C9.3",
+      "title": "Songs and dances",
+      "goal": "Match excerpts to named, community-reviewed examples.",
+      "xp": 140,
+      "items": [
+        {
+          "np": "लोकगीत",
+          "rom": "lokgīt",
+          "en": "folk song"
+        },
+        {
+          "np": "नाच",
+          "rom": "nāc",
+          "en": "dance"
+        },
+        {
+          "np": "देउडा",
+          "rom": "deuḍā",
+          "en": "Deuda"
+        },
+        {
+          "np": "तामाङ सेलो",
+          "rom": "Tāmāṅ selo",
+          "en": "Tamang selo"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c9-3-l1",
+          "title": "Folk song category",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c9-3-l2",
+          "title": "Reviewed examples",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c9-3-l3",
+          "title": "Festival vs stage",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c9-3-l4",
+          "title": "Movement with a seated option",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c9-4",
+      "chapterId": "c9",
+      "trackId": "nepali-culture",
+      "code": "C9.4",
+      "title": "Crafts and visual art",
+      "goal": "Sort materials and processes, and caption with attribution.",
+      "xp": 150,
+      "items": [
+        {
+          "np": "पौभा",
+          "rom": "paubhā",
+          "en": "paubha"
+        },
+        {
+          "np": "थाङ्का",
+          "rom": "thāṅkā",
+          "en": "thangka"
+        },
+        {
+          "np": "मिथिला कला",
+          "rom": "Mithilā kalā",
+          "en": "Mithila art"
+        },
+        {
+          "np": "काष्ठकला",
+          "rom": "kāṣṭhakalā",
+          "en": "woodcraft"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c9-4-l1",
+          "title": "Paubha and thangka",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c9-4-l2",
+          "title": "Mithila art",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c9-4-l3",
+          "title": "Wood, metal and pottery",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c9-4-l4",
+          "title": "Create “inspired by”",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c10-1",
+      "chapterId": "c10",
+      "trackId": "nepali-culture",
+      "code": "C10.1",
+      "title": "Animals and habitats",
+      "goal": "Place animals in plausible habitats and choose conservation actions.",
+      "xp": 130,
+      "items": [
+        {
+          "np": "हिउँ चितुवा",
+          "rom": "hiũ cituvā",
+          "en": "snow leopard"
+        },
+        {
+          "np": "एकसिङ्गे गैँडा",
+          "rom": "ekasiṅge gaĩḍā",
+          "en": "one-horned rhinoceros"
+        },
+        {
+          "np": "रातो पाण्डा",
+          "rom": "rāto pāṇḍā",
+          "en": "red panda"
+        },
+        {
+          "np": "डाँफे",
+          "rom": "ḍā̃phe",
+          "en": "Himalayan monal"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c10-1-l1",
+          "title": "Mountain examples",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c10-1-l2",
+          "title": "Hill and forest",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c10-1-l3",
+          "title": "Terai and wetland",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c10-1-l4",
+          "title": "Conservation",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c10-2",
+      "chapterId": "c10",
+      "trackId": "nepali-culture",
+      "code": "C10.2",
+      "title": "National symbols",
+      "goal": "Identify official symbols and explain one.",
+      "xp": 120,
+      "items": [
+        {
+          "np": "नेपालको झण्डा",
+          "rom": "Nepālko jhaṇḍā",
+          "en": "Nepal's flag"
+        },
+        {
+          "np": "लालीगुराँस",
+          "rom": "lālīgurā̃s",
+          "en": "rhododendron"
+        },
+        {
+          "np": "राष्ट्रिय प्रतीक",
+          "rom": "rāṣṭriya pratīk",
+          "en": "national symbol"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c10-2-l1",
+          "title": "Flag shape",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c10-2-l2",
+          "title": "Rhododendron and monal",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c10-2-l3",
+          "title": "Emblem and anthem respect",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c10-2-l4",
+          "title": "Symbol vs only example",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "id": "c10-3",
+      "chapterId": "c10",
+      "trackId": "nepali-culture",
+      "code": "C10.3",
+      "title": "My Nepal learning museum",
+      "goal": "Build and privately share a four-topic museum with careful captions.",
+      "xp": 250,
+      "items": [
+        {
+          "np": "मैले सिकेँ…",
+          "rom": "maile sikẽ…",
+          "en": "I learned…"
+        },
+        {
+          "np": "मलाई मन पर्‍यो…",
+          "rom": "malāī man paryo…",
+          "en": "I liked…"
+        },
+        {
+          "np": "केही परिवार…",
+          "rom": "kehī parivār…",
+          "en": "some families…"
+        },
+        {
+          "np": "सम्मान",
+          "rom": "sammān",
+          "en": "respect"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "c10-3-l1",
+          "title": "Choose four topics",
+          "phase": "Encounter",
+          "minutes": 7
+        },
+        {
+          "id": "c10-3-l2",
+          "title": "Verify captions",
+          "phase": "Notice",
+          "minutes": 7
+        },
+        {
+          "id": "c10-3-l3",
+          "title": "Build gallery and audio",
+          "phase": "Compare",
+          "minutes": 7
+        },
+        {
+          "id": "c10-3-l4",
+          "title": "Share privately",
+          "phase": "Create",
+          "minutes": 7
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-201",
+      "name": "Sita Sharma",
+      "email": "family@demo.com",
+      "password": "demo123",
+      "role": "CombinedChildParent",
+      "details": {
+        "avatar": null,
+        "parentAvatar": null,
+        "onboarding": {
+          "language": "nepali",
+          "completed": true
+        },
+        "classes": [],
+        "parentSettings": {
+          "childName": "Aarav",
+          "dailyMinutes": 20,
+          "weeklyGoalDays": 4,
+          "allowedTracks": {
+            "language": true,
+            "culture": true
+          },
+          "allowSpeaking": true,
+          "requirePin": false,
+          "pin": ""
+        }
+      },
+      "createdAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "id": "usr-202",
+      "name": "Priya Thapa",
+      "email": "learner@demo.com",
+      "password": "demo123",
+      "role": "NormalUser",
+      "details": {
+        "avatar": null,
+        "parentAvatar": null,
+        "onboarding": {
+          "language": "nepali",
+          "completed": true
+        },
+        "classes": [],
+        "parentSettings": {
+          "childName": "",
+          "dailyMinutes": 20,
+          "weeklyGoalDays": 4,
+          "allowedTracks": {
+            "language": true,
+            "culture": true
+          },
+          "allowSpeaking": true,
+          "requirePin": false,
+          "pin": ""
+        }
+      },
+      "createdAt": "2026-09-01T10:05:00.000Z"
+    },
+    {
+      "id": "usr-301",
+      "name": "Hari Gurung",
+      "email": "teacher@demo.com",
+      "password": "demo123",
+      "role": "Teacher",
+      "details": {
+        "avatar": null,
+        "parentAvatar": null,
+        "onboarding": {
+          "language": "nepali",
+          "completed": true
+        },
+        "classes": [],
+        "parentSettings": {
+          "childName": "",
+          "dailyMinutes": 20,
+          "weeklyGoalDays": 4,
+          "allowedTracks": {
+            "language": true,
+            "culture": true
+          },
+          "allowSpeaking": true,
+          "requirePin": false,
+          "pin": ""
+        }
+      },
+      "createdAt": "2026-09-01T10:10:00.000Z"
+    },
+    {
+      "id": "usr-401",
+      "name": "Asha Karki",
+      "email": "admin@demo.com",
+      "password": "demo123",
+      "role": "Admin",
+      "details": {
+        "avatar": null,
+        "parentAvatar": null,
+        "onboarding": {
+          "language": "nepali",
+          "completed": true
+        },
+        "classes": [],
+        "parentSettings": {
+          "childName": "",
+          "dailyMinutes": 20,
+          "weeklyGoalDays": 4,
+          "allowedTracks": {
+            "language": true,
+            "culture": true
+          },
+          "allowSpeaking": true,
+          "requirePin": false,
+          "pin": ""
+        }
+      },
+      "createdAt": "2026-09-01T10:15:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-001",
+      "name": "Sita Sharma",
+      "email": "family@demo.com",
+      "subject": "Nepali audio",
+      "message": "The pronunciation buttons work well for my daughter.",
+      "createdAt": "2026-08-30T11:10:33.297Z"
+    }
+  ]
+}
